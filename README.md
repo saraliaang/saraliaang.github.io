@@ -57,15 +57,26 @@ This project follows best practices for static website development, with a focus
   - `<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`
 
 ### Bonus (optional)
-### Bonus (optional)
 
 I didn’t use any JavaScript in this project, but I focused on adding small CSS touches to make the site feel more interactive.  
 - I added different styles for hover and focus states on buttons and links so users get visual feedback as they move through the site.
 - The navigation is responsive: on smaller screens, it turns into a hamburger menu that stacks vertically; on larger screens, it switches to a horizontal layout with links spaced out in a row. All of this was done using just HTML and CSS.
 
 ### Screenshots
-### Homepage – Desktop View
-![Homepage Desktop](./img/screenshots/home-desktop.jpeg)
+#### Homepage – Desktop View
+![Homepage Desktop](img/screenshots/homepage-desktop.png)
+#### Project – Desktop View
+![Project Desktop](img/screenshots/project-desktop.png)
+#### tech – Desktop View
+![Tech Desktop](img/screenshots/tech-desktop.png)
+#### Form – Desktop View
+![Form Desktop](img/screenshots/form-desktop.png)
 
-### Projects Page – Mobile View
+#### Projects Page – Mobile View
 ![Projects Mobile](img/screenshots/homepage-mobile.png)
+#### Bio Page – Mobile View
+![Bio Mobile](img/screenshots/bio-mobile.png)
+#### Projects Page – Mobile View
+![Projects Mobile](img/screenshots/project-mobile.png)
+#### Form Page – Mobile View
+![Form Mobile](img/screenshots/form-mobile.png)
